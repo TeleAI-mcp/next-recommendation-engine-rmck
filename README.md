@@ -1,2 +1,3 @@
-# next-recommendation-engine-rmck
-Automated issue comment bot repository
+# Next Recommendation Engine Rmck
+
+Automated issue comment bot repository.
